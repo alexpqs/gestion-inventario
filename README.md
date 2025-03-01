@@ -2,8 +2,8 @@
 
 ## Integrantes:
 
-Alex Patricio Quishpe Salgado
-Marco Antonio Chacón Yépez 
+### Alex Patricio Quishpe Salgado
+### Marco Antonio Chacón Yépez 
 
 ## Descripción General
 
@@ -18,20 +18,20 @@ Marco Antonio Chacón Yépez
 
 
 ##¿Cómo usar ejecutar esta aplicación?
-# Clonar el repositorio
+### Clonar el repositorio
 git clone https://github.com/tuusuario/gestion-inventario.git
 cd gestion-inventario
 
-# Instalar dependencias del backend
+### Instalar dependencias del backend
 cd backend
 npm install
 
-# Instalar dependencias del frontend
+### Instalar dependencias del frontend
 cd ../frontend
 npm install
 
-# Configurar la base de datos
-# Crear un archivo .env en el directorio backend con la configuración de la base de datos
+### Configurar la base de datos
+ Crear un archivo .env en el directorio backend con la configuración de la base de datos
 echo "DB_HOST=localhost
 DB_PORT=3306
 DB_USER=""
