@@ -5,6 +5,8 @@
 ### Alex Patricio Quishpe Salgado
 ### Marco Antonio Chacón Yépez 
 
+
+
 ## Descripción General
 
 **gestion-inventario** es una aplicación PWA progresiva de gestión de inventarios diseñada para optimizar la administración de productos, usuarios, roles, empresas y movimientos de inventario. La aplicación utiliza tecnologías modernas como PrimeReact, NestJS, NextJS, Zustand, Axios, Bootstrap y React Query.
@@ -39,7 +41,7 @@ DB_PASSWORD=""
 DB_NAME=gestion_inventario_db" > backend/.env
 
 ## Iniciar el backend
-cd backend 
+cd ../backend
 npm run start:dev
 
 ## Iniciar el frontend
